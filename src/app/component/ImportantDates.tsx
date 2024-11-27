@@ -9,23 +9,23 @@ const ImportantDates: React.FC = () => {
   const dates: DateInfo[] = [
     {
       label: "Last Date of Abstract Submission ",
-      date: "October 10, 2024",
+      date: "December 05, 2024",
     },
     {
       label: "Abstract Acceptance ",
-      date: "October 15, 2024",
+      date: "December 07, 2024",
     },
     {
       label: "Full Length Paper Submission ",
-      date: "October 20, 2024",
+      date: "December 10, 2024",
     },
     {
       label: "Regular Registration ",
-      date: "October 25, 2024",
+      date: "December 12, 2024",
     },
     {
       label: "Late Registration ",
-      date: "October 30, 2024",
+      date: "December 15, 2024",
     },
     {
       label: "Conference Date",
