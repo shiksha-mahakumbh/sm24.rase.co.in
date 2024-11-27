@@ -5,7 +5,7 @@ const TopInfo = () => {
     <div className="flex items-center justify-between p-4 bg-white">
       <a href="https://www.iitrpr.ac.in/" target="_blank" rel="noopener noreferrer">
         <img
-          src="/DHELogo.jpg" // Specify the left logo image path
+          src="/DHELogo.png" // Specify the left logo image path
           alt="Company Logo Left"
           className="p-1 w-20 h-16 md:w-20 md:h-16 lg:w-28 lg:h-28 "         
         />
