@@ -1,3 +1,4 @@
+"use client";
 import Image from 'next/image'
 import TopInfo from "./component/TopInfo"
 import NavBar from "./component/NavBar"

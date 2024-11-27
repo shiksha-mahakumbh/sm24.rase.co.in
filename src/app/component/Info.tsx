@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 
 const Info = () => {
-  const text1 = 'Kurukshetra University, Kurukshetra is a university established on 11 January 1956 in Kurukshetra, in the Indian state of Haryana, 160 kilometres from the capital, Delhi. It is a member of Association of Commonwealth Universities.`;
+  const text1 = `Kurukshetra University, Kurukshetra is a university established on 11 January 1956 in Kurukshetra, in the Indian state of Haryana, 160 kilometres from the capital, Delhi. It is a member of Association of Commonwealth Universities.`;
 
   const text2 = `The Department of Holistic Education, Vidya Bharti, stands at the forefront of a noble mission to promote education rooted in Bhartiya values and culture on a global scale. With unwavering dedication spanning several decades, we have been committed to ensuring the welfare of all through holistic education. This journey has seen the successful launch of the "Shiksha Mahakumbh" initiative, which made its historic debut in June 2023, with the inaugural session held at NIT Jalandhar, marking a momentous stride in our quest to reimagine education. Owing to the overwhelming demand from educational institutions to host future editions of Shiksha Mahakumbh, we are thrilled to announce that the 2nd edition of this prestigious event is scheduled to be held at IIT Ropar in October 2024.'
    
